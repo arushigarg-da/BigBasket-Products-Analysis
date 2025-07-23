@@ -67,6 +67,6 @@ The dashboard is fully built in **Microsoft Excel**, making it easy to use, cust
 
 ## 📷 Screenshots / Preview
  
-> `![Dashboard Preview](images/dashboard-preview.png)`
+<img width="1279" height="557" alt="Screenshot (560)" src="https://github.com/user-attachments/assets/717ac6f6-275d-4958-9dd6-dd2573aa9a5f" />
 
 ---
